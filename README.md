@@ -1,4 +1,4 @@
-# passenger-counter
+# Passenger-Counter
 
 # What does this app do?
 
