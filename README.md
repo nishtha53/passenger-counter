@@ -12,4 +12,4 @@ can start with 0.
 - JavaScript
 
 # Live Site
-(View Demo)[https://passenger-counter-practice.netlify.app/]
+[View Demo](https://passenger-counter-practice.netlify.app/)
